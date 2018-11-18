@@ -1,0 +1,10 @@
+sum=0
+a=1
+i=1
+term=1
+while(i<=20):
+       term=term*i
+       sum=sum+term
+       i=i+1
+s=sum
+print(s)
