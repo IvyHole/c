@@ -1,0 +1,5 @@
+s=[int(i) for i in input().split()]
+a=s[min(s)]
+b=s[max(s)]
+x=s[0]
+y=s[9]
